@@ -3,7 +3,7 @@
 # ---- encrypted text is received as input
 # ---- Works only for A to Z
 # ---- Key space size is fixed at 26
-
+# Author - Akshay Kaikottil
 def decrypt(text, key):
     msg = ""
     for ele in text:
